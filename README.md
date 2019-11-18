@@ -24,4 +24,4 @@ When running the code on your own system, make sure to point the CSV file to the
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [license.md](license.md) file for details.
