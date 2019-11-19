@@ -12,7 +12,7 @@ This tutorial is written as a Python Jupyter notebook. All instructions and code
 
 ### Prerequisites
 
-To run the notebook, the easiest method to get all required software is to install Anaconda. It will come with a Python environment, Jupyter Notebook, and an IDE (Spyder) to run your Python code.
+To run the notebook yourself, install Anaconda to get all of the required software. It will come with a Python environment, Jupyter Notebook, and an IDE (Spyder) to run your Python code. If you just want to view the notebook, click on the ipynb file and GitHub will display the contents within the browser for you.
 
 ## Deployment
 
