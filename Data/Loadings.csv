@@ -1,0 +1,71 @@
+Segment,Feature,Value
+Overall Cost,Price,0.5736169199767446
+Overall Cost,Safety,-0.2768803845358821
+Overall Cost,Exterior_Looks,-0.007814726285474175
+Overall Cost,Space_Comfort,0.02307284043820472
+Overall Cost,Technology,0.04158063106577566
+Overall Cost,After_Sales_Service,0.05686577565199836
+Overall Cost,Resale_Value,0.6937015579606861
+Overall Cost,Fuel_Type,0.06028505473151958
+Overall Cost,Fuel_Efficiency,0.4640846090580961
+Overall Cost,Color,0.20905941788657367
+Overall Cost,Maintenance,0.6117120604894808
+Overall Cost,Test_drive,0.08555601345203033
+Overall Cost,Product_Reviews,0.3849304270743732
+Overall Cost,Testimonials,-0.17781408115645392
+Comfort and Fuel Efficiency,Price,0.1460302420882471
+Comfort and Fuel Efficiency,Safety,0.3047493723766531
+Comfort and Fuel Efficiency,Exterior_Looks,0.05331749984091856
+Comfort and Fuel Efficiency,Space_Comfort,0.8690682271639838
+Comfort and Fuel Efficiency,Technology,0.3181295728847726
+Comfort and Fuel Efficiency,After_Sales_Service,0.37206505477044
+Comfort and Fuel Efficiency,Resale_Value,-0.22178068647724827
+Comfort and Fuel Efficiency,Fuel_Type,0.5370862032776654
+Comfort and Fuel Efficiency,Fuel_Efficiency,0.09221546349630426
+Comfort and Fuel Efficiency,Color,-0.05329053499220283
+Comfort and Fuel Efficiency,Maintenance,0.065837688966463
+Comfort and Fuel Efficiency,Test_drive,0.05860463839343209
+Comfort and Fuel Efficiency,Product_Reviews,0.183099025843625
+Comfort and Fuel Efficiency,Testimonials,0.037956567973515536
+Review Confirmer,Price,-0.0458802460187536
+Review Confirmer,Safety,-0.16111436698947532
+Review Confirmer,Exterior_Looks,0.19778548481551547
+Review Confirmer,Space_Comfort,0.2069123963175545
+Review Confirmer,Technology,0.08579882661820513
+Review Confirmer,After_Sales_Service,0.05659777063435985
+Review Confirmer,Resale_Value,-0.17220592878012966
+Review Confirmer,Fuel_Type,-0.01749425759612606
+Review Confirmer,Fuel_Efficiency,0.27706124502580043
+Review Confirmer,Color,0.25630358835400796
+Review Confirmer,Maintenance,0.07262495330461095
+Review Confirmer,Test_drive,0.43169731530181
+Review Confirmer,Product_Reviews,0.4142036763209723
+Review Confirmer,Testimonials,0.6553062042106765
+Service,Price,-0.04094979361105418
+Service,Safety,0.11202872449488292
+Service,Exterior_Looks,0.005543711276294367
+Service,Space_Comfort,0.004439577587051708
+Service,Technology,0.12540294924915243
+Service,After_Sales_Service,0.8771933373239826
+Service,Resale_Value,0.16431128041789997
+Service,Fuel_Type,0.08492933041346994
+Service,Fuel_Efficiency,0.36866573780920125
+Service,Color,0.06949321802623501
+Service,Maintenance,0.07159374419939449
+Service,Test_drive,0.22904195787748594
+Service,Product_Reviews,-0.027299230136242622
+Service,Testimonials,-0.04795486025772941
+Color Trumps All,Price,-0.019967352461641358
+Color Trumps All,Safety,0.04725695216766638
+Color Trumps All,Exterior_Looks,-0.5377090597255251
+Color Trumps All,Space_Comfort,-0.17058457626720294
+Color Trumps All,Technology,0.027298759933485107
+Color Trumps All,After_Sales_Service,0.036841147706903034
+Color Trumps All,Resale_Value,0.01015592438648611
+Color Trumps All,Fuel_Type,-0.0368653936599066
+Color Trumps All,Fuel_Efficiency,0.2263922884100218
+Color Trumps All,Color,0.7444618287218379
+Color Trumps All,Maintenance,0.24933174946605433
+Color Trumps All,Test_drive,-0.07449493762893103
+Color Trumps All,Product_Reviews,0.06642471901171698
+Color Trumps All,Testimonials,0.017651985874619577
