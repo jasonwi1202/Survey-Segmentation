@@ -1,6 +1,6 @@
 # Survey Segmentation
 
-In this tutorial you will learn the basics of verify segmentation, analyzing the data, and creating segments. When reviewing survey data, you will typically be handed likert questions (ex: answers with a scale of 1 to 5 with 1 being bad and 5 being good). Using a few techniques, you can verify the quality of the survey and start grouping respondents into populations. The steps we will be following are listed below:
+In this tutorial you will learn the basics of verifying segmentation, analyzing the data, and creating segments. When reviewing survey data, you will typically be handed likert questions (ex: answers with a scale of 1 to 5 with 1 being bad and 5 being good). Using a few techniques, you can verify the quality of the survey and start grouping respondents into populations. The steps we will be following are listed below:
 * Analyzing our data set for scale.
 * Using Principle Component Analysis (PCA) to verify that the survey is sound and grouping data.
 * Checking for correlated questions.
